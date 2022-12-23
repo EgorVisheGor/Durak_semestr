@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\TheFool\Server\bin\Debug\Server.dll.config
+\\Mac\Home\Desktop\TheFool\Server\bin\Debug\Server.dll
+\\Mac\Home\Desktop\TheFool\Server\bin\Debug\Server.pdb
+\\Mac\Home\Desktop\TheFool\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\TheFool\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\TheFool\Server\obj\Debug\Server.dll
+\\Mac\Home\Desktop\TheFool\Server\obj\Debug\Server.pdb

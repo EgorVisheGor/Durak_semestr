@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\TheFool\TheFool\obj\Debug\TheFool.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\TheFool\TheFool\obj\Debug\TheFool.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\TheFool\TheFool\obj\Debug\TheFool.Form1.resources
+\\Mac\Home\Desktop\TheFool\TheFool\obj\Debug\TheFool.Properties.Resources.resources
+\\Mac\Home\Desktop\TheFool\TheFool\obj\Debug\TheFool.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\TheFool\TheFool\obj\Debug\TheFool.csproj.CoreCompileInputs.cache
